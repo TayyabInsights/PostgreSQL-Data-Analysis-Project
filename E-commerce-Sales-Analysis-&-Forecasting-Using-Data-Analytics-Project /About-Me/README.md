@@ -4,7 +4,6 @@
 
 Hi, I’m **Tayyab**!  
 
-Data to Decisions: Driving Business Growth with Insigh
 
 I am a Data & Business Analyst with expertise in data-driven decision-making, market research, and business intelligence. I specialize in data analysis, visualization, and strategic insights using Excel, SQL, Python, Power BI, and Tableau to help businesses optimize performance, improve marketing strategies, and drive growth. With a strong foundation in business administration and data science, I transform raw data into actionable insights that empower smarter business decisions. Let’s connect to turn your data into success! 🚀
 
