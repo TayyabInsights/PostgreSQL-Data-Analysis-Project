@@ -35,8 +35,8 @@ The goal is to provide **data-driven insights** to improve **sales strategies, m
 
 ---
 
-### **✅ 6. Project Results & Key Findings**
-```md
+### **✅  Project Results & Key Findings**
+
 ## 📈 Key Insights & Findings
 📌 **Most Profitable Products:** Laptops and Monitors contribute **40%+** of total revenue.  
 📌 **Peak Sales Months:** Sales **increase by 25%** during Black Friday & holiday seasons.  
