@@ -39,7 +39,7 @@ Let's grow together! Here's how you can participate:
 - 🛠️ Submit PRs for improvements
 - 📢 Share projects with peers
 
-All constructive feedback and contributions are welcome! See [CONTRIBUTING.md](link-if-exists) for guidelines.
+All constructive feedback and contributions are welcome! See [CONTRIBUTING.md]([link-if-exists](https://github.com/TayyabInsights)) for guidelines.
 
 ## 🌐 Connect With Me
 
@@ -54,8 +54,17 @@ Let's collaborate and grow our data community:
 - 👻 **Snapchat**: [Add me on Snapchat](https://www.snapchat.com/add/tayyabinsights)
 - 📺 **YouTube**: [Subscribe to my YouTube Channel](https://www.youtube.com/@TayyabInsights?sub_confirmation=1)
 
-📧 **Email:** [your.email@domain.com](mailto:your.techexpertatb@gmail.com)
+📧 **Email:** [your.techexpertatb@gmail.com](mailto:your.techexpertatb@gmail.com)
 
 ## 📄 License
 
 This project is [MIT licensed](LICENSE) - feel free to adapt and build upon these materials!
+
+---
+
+Feel free to explore my projects, share feedback, or collaborate on exciting new ideas. 💡
+
+## 🤝 Contributing and Feedback
+- Have suggestions or improvements? Feel free to open an issue or submit a pull request.
+- If you found this project useful, please ⭐ star the repository!
+
