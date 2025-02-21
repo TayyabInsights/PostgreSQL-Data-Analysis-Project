@@ -129,6 +129,18 @@ E-commerce-Sales-Analysis/
 ✔ Implement AI-driven demand forecasting for inventory management.  
 
 ## 🔗 Let’s Connect!  <a id="lets-connect"></a>
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📧 [Email](mailto:your-email@example.com)  
-🌐 [Portfolio](https://your-portfolio.com)  
+
+I’d love to hear from you! Connect with me on the following platforms:
+
+- 🔗 **LinkedIn**: [Visit my LinkedIn Profile](https://www.linkedin.com/in/al-tayyab-bakhsh-908b84275/)
+- 🐙 **GitHub**: [Explore my GitHub Projects](https://github.com/TayyabInsights)
+- 🐦 **X (Twitter)**: [Follow me on Twitter](https://twitter.com/TayyabInsights)
+- 📸 **Instagram**: [Check out my Instagram](https://www.instagram.com/TayyabInsights/)
+- 🎵 **TikTok**: [Watch my TikTok Videos](https://www.tiktok.com/@tayyabinsights)
+- 📘 **Facebook**: [Follow me on Facebook](https://www.facebook.com/tayyabinsights)
+- 👻 **Snapchat**: [Add me on Snapchat](https://www.snapchat.com/add/tayyabinsights)
+- 📺 **YouTube**: [Subscribe to my YouTube Channel](https://www.youtube.com/@TayyabInsights?sub_confirmation=1)
+
+---
+
+Feel free to explore my projects, share feedback, or collaborate on exciting new ideas. 💡
