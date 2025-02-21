@@ -20,7 +20,7 @@
 This project analyzes **E-commerce sales trends, customer purchasing behavior, and product performance** using **PostgreSQL, Python, and Power BI**. The objective is to extract key insights and **forecast future sales trends** to help businesses improve **decision-making, inventory management, and revenue optimization**.  
 
 ## 📌 Project Diagram  <a id="project-diagram"></a>
-![Project Diagram]([image-url](https://github.com/TayyabInsights/PostgreSQL-Data-Analysis-Project/blob/main/E-commerce-Sales-Analysis-%26-Forecasting-Using-Data-Analytics-Project%20/Images/diagram.png))
+![Project Diagram](https://github.com/TayyabInsights/PostgreSQL-Data-Analysis-Project/blob/main/E-commerce-Sales-Analysis-%26-Forecasting-Using-Data-Analytics-Project/Images/diagram.png)
 
 ## ❓ Problem Statement  <a id="problem-statement"></a>
 How can E-commerce businesses identify top-performing products, high-value customers, and seasonal trends? How can sales be forecasted to optimize inventory management and marketing strategies?
@@ -73,17 +73,9 @@ E-commerce-Sales-Analysis/
 ```
 
 ## 📝 How to Use the Project  <a id="how-to-use-the-project"></a>
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd E-commerce_Sales_Analysis
-   ```
-3. Run the SQL scripts to set up the database in PostgreSQL.
-4. Open Python notebooks for EDA and forecasting analysis.
-5. View the interactive dashboard in Power BI.
+1. Run the SQL scripts to set up the database in PostgreSQL.
+2. Open Python notebooks for EDA and forecasting analysis.
+3. View the interactive dashboard in Power BI.
 
 ## 📊 Data Collection  <a id="data-collection"></a>
 ### 📊 Dataset Name: [E-commerce Sales and Customer Insights Dataset](https://www.kaggle.com/datasets/refiaozturk/e-commerce-sales)  
