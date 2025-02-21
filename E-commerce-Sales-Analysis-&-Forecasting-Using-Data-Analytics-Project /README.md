@@ -20,7 +20,7 @@
 This project analyzes **E-commerce sales trends, customer purchasing behavior, and product performance** using **PostgreSQL, Python, and Power BI**. The objective is to extract key insights and **forecast future sales trends** to help businesses improve **decision-making, inventory management, and revenue optimization**.  
 
 ## 📌 Project Diagram  <a id="project-diagram"></a>
-![Project Diagram](https://github.com/TayyabInsights/PostgreSQL-Data-Analysis-Project/blob/main/E-commerce-Sales-Analysis-%26-Forecasting-Using-Data-Analytics-Project/Images/diagram.png)
+![Project Diagram](https://github.com/TayyabInsights/PostgreSQL-Data-Analysis-Project/blob/main/E-commerce-Sales-Analysis-%26-Forecasting-Using-Data-Analytics-Project%20/Images/diagram.png)
 
 ## ❓ Problem Statement  <a id="problem-statement"></a>
 How can E-commerce businesses identify top-performing products, high-value customers, and seasonal trends? How can sales be forecasted to optimize inventory management and marketing strategies?
