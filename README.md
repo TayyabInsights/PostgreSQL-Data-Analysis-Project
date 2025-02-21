@@ -54,7 +54,7 @@ Let's collaborate and grow our data community:
 - 👻 **Snapchat**: [Add me on Snapchat](https://www.snapchat.com/add/tayyabinsights)
 - 📺 **YouTube**: [Subscribe to my YouTube Channel](https://www.youtube.com/@TayyabInsights?sub_confirmation=1)
 
-📧 **Email:** [your.techexpertatb@gmail.com](mailto:your.techexpertatb@gmail.com)
+📧 **Email:** [techexpertatb@gmail.com](mailto:your.techexpertatb@gmail.com)
 
 ## 📄 License
 
