@@ -11,6 +11,7 @@ This repository contains an interactive **Power BI dashboard** designed to analy
 📌 **Live Dashboard Preview:**  
 ![E-Commerce Sales Dashboard](https://github.com/TayyabInsights/PostgreSQL-Data-Analysis-Project/blob/main/E-commerce-Sales-Analysis-%26-Forecasting-Using-Data-Analytics-Project%20/PowerBI_Dashboards/ecommerce_sales%20Copy.pdf)
 
+![E-Commerce Sales Dashboard](https://github.com/TayyabInsights/PostgreSQL-Data-Analysis-Project/blob/main/E-commerce-Sales-Analysis-%26-Forecasting-Using-Data-Analytics-Project%20/PowerBI_Dashboards/ecommerce_sales%20Copy.pdf)
 ---
 
 ## **📂 Dataset Description**
